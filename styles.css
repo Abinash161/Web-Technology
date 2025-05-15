@@ -109,3 +109,10 @@ h2 {
   background: lightgray;
   padding: 10px;
 }
+.container1{
+    text-align: center;
+        margin: 20px;
+}
+.btn{
+    padding: 40px;
+}
